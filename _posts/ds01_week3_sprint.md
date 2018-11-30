@@ -12,7 +12,7 @@ Statistics show that low-rated chess players often lose the game before it start
 
 ### Countering the Conventional Wisdom
 
-Beginners often study weaker moves that are not played at higher levels. The [first google-search result  ](https://www.chess.com/article/view/the-best-chess-openings-for-beginners)for openings contains a list of five openings. But in 15 world [championship games](https://en.wikipedia.org/wiki/World_Chess_Championship_2018#Regular_games), only one from this list was played. Magnus Carlsen played the Sicilian Defense (c5) 7 times against Caurana's 1.e4. 
+Beginners often study weaker moves that are not played at higher levels. The [first google-search result  ](https://www.chess.com/article/view/the-best-chess-openings-for-beginners)for openings contains a list of five openings. But in 15 [world championship games](https://en.wikipedia.org/wiki/World_Chess_Championship_2018#Regular_games), only one from this list was played. Magnus Carlsen played the Sicilian Defense (c5) 7 times against Caurana's 1.e4. 
 
 ### Next Steps
 
