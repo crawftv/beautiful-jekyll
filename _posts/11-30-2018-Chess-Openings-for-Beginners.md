@@ -1,3 +1,8 @@
+---
+title: Chess openings for Beginner
+subtitle: A Statistical Approach
+---
+
 # Chess openings for Beginners
 
 ## A Statistical Approach
