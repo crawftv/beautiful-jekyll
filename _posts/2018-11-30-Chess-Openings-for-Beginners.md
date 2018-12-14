@@ -1,5 +1,5 @@
 ---
-title: Chess openings for Beginner
+title: Chess openings for Beginners
 subtitle: A Statistical Approach
 ---
 
